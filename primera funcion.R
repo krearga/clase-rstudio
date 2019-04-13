@@ -26,4 +26,4 @@ resto <-function(x,y,z) {
   (x*y)%%z
 }
 
-
+#buena clase.......
